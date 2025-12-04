@@ -1,6 +1,6 @@
 # ⭐ Muun's Quest Checker
 
-Muun’s Quest Checker allows you to run deepchecks and session checks for players using a custom Quest APK linked to the QUest Checker Discord bot(invite link below).
+Muun’s Quest Checker allows you to run deepchecks and session checks for players using a custom Quest APK linked to the Quest Checker Discord bot(invite link below).
 
 ## 📥 Installation Instructions (APK Setup)
 
