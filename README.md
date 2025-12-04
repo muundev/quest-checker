@@ -22,12 +22,15 @@ The app will now appear under Unknown Sources on your Quest and is ready to use.
 
 Run the command: `/session`
 Copy the generated session ID.
+
 Open the Quest app, paste the session ID into the text box, and press Enter Session.
 
 ### ❗Important:
 
 The Quest app must remain open and minimized.
+
 Closing the app will end the session.
+
 **All settings should be configured before starting a session.**
 
 ## 🔍 Viewing Sessions
