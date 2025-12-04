@@ -40,4 +40,5 @@ View a player's last 5 sessions: `/search user`
 ## 💬 Community & Links
 
 Discord Server: https://discord.gg/A4MHGdNTWA
+
 Invite the Bot: https://discord.com/oauth2/authorize?client_id=1444404032021069857&permissions=8&integration_type=0&scope=bot+applications.commands
